@@ -30,3 +30,5 @@ linesInSource.forEach(line => {
     { flag: 'w+', encoding: 'utf-8' }
   );
 });
+
+console.log(linesInSource)
